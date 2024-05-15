@@ -1,20 +1,20 @@
 [
     {
-      "article": 1,
+      "id": 1,
       "name": "Яблоки",
       "weight": "100 грамм",
       "cost": "100 руб",
       "img": "1.jpeg"
     },
     {
-      "article": 2,
+      "id": 2,
       "name": "Груши",
       "weight": "100 грамм",
       "cost": "200 руб",
       "img": "grushi.jpg"
     },
     {
-      "article": 3,
+      "id": 3,
       "name": "Апельсины",
       "weight": "100 грамм",
       "cost": "230 руб",
